@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/todo-cli
+todo-cli.so
+todo-cli.dylib
+todo-cli.dll
+todo-cli.a
+todo-cli.lib
+todo-cli-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Fernando Dev"
+	],
+	"copyright": "Copyright © 2025, Fernando Dev",
+	"description": "A simple yet practical to-do manager.",
+	"license": "Apache-2.0",
+	"name": "todo-cli"
+}
